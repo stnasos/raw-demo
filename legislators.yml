@@ -15,6 +15,7 @@ metadata:
   tags:
     - goverment
     - USA
+    - lala
 security:
   public: true
 refreshSeconds: 10
