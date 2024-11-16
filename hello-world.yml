@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.10.json
+raw: "0.10"
+endpoint: GET
+metadata:
+  title: Hello world
+  description: Hello world example
+  tags:
+    - helloworld
+code: snapi
+declaration: hello_world
+codeFile: hello-world.snapi
+format: json
+security:
+  public: true
+computeClass: normal
+enabled: true
+tests:
+  - name: Hello World test
+    description: Tests a hello world endpoint
