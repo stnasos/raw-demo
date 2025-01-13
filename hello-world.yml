@@ -2,10 +2,11 @@
 raw: "0.10"
 endpoint: GET
 metadata:
-  title: Hello world
-  description: Hello world example
+  title: Test Hello world
+  description: Hello world example test 3
   tags:
     - helloworld
+    - test
 code: snapi
 declaration: hello_world
 codeFile: hello-world.snapi
